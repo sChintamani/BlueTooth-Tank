@@ -29,11 +29,11 @@ How It Works
 
 2. 2️⃣ Arduino Uno receives Bluetooth signals from the HC-05 module.
 
-3️⃣ L298N motor driver controls the DC motors, moving the tank forward, backward, left, and right.
+3. 3️⃣ L298N motor driver controls the DC motors, moving the tank forward, backward, left, and right.
 
-4️⃣ A servo motor adjusts the Nerf gun’s aim (up/down).
+4. 4️⃣ A servo motor adjusts the Nerf gun’s aim (up/down).
 
-5️⃣ A solenoid or extra servo fires the Nerf bullets.
+5 5️⃣ A solenoid or extra servo fires the Nerf bullets.
 
 ---
 
